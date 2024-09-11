@@ -1,0 +1,13 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.menu-icon {
+  font-size: 30px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.content {
+  padding: 20px;
+}

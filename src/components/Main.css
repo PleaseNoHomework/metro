@@ -1,0 +1,27 @@
+.Side {
+  font-size: 60px;
+  margin-right: 10px;
+}
+.Input {
+  border: 3px solid black;
+  border-radius: 15px;
+  width: 300px;
+  margin-left: 150px;
+  border: 20px;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.2);
+  align-items: center;
+}
+
+textarea::placeholder {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+hr {
+  border: 1px solid #ccc;
+}
+
+.Image {
+  margin-left: 300px;
+}
